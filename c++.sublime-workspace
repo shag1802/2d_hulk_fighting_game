@@ -1,0 +1,205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"tex_score"
+			],
+			[
+				"SDL_Render",
+				"SDL_RenderPresent"
+			],
+			[
+				"Collect",
+				"I-Collections"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"incl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Cp",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Downloads/collision 2/collision 2/collision/src/hero1.cpp",
+		"/C/Users/HP/Desktop/project/src/main.cpp",
+		"/C/Users/HP/Desktop/project/src/leaderboard.cpp",
+		"/C/Users/HP/Desktop/project/src/Button.cpp",
+		"/C/Users/HP/Desktop/project/include/Button.hpp",
+		"/C/Users/HP/Desktop/project/include/leaderboard.hpp",
+		"/C/Users/HP/Desktop/project/include/Player.hpp",
+		"/C/Users/HP/Desktop/project/src/Window.cpp",
+		"/C/Users/HP/Desktop/project/src/player.cpp",
+		"/C/Users/HP/Desktop/project/src/Mouse.cpp",
+		"/C/Users/HP/Desktop/project/src/game.hpp",
+		"/C/Users/HP/Desktop/project/src/game.cpp",
+		"/C/mine/IIITB/Sem 3/c++ project/main.cpp",
+		"/C/Users/HP/Desktop/c++ project/c++.sublime-project",
+		"/C/Users/HP/Desktop/c++ project/main.cpp",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SDL2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Release",
+	"replace":
+	{
+		"height": 60.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
